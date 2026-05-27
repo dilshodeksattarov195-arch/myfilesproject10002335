@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicefelete",
+        "uuid": 9059800,
+        "checksum": "ak483i"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
